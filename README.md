@@ -1,1 +1,1 @@
-# pird_serd-grupo04-vpn
+# Roteiro para criar um ambiente virtualizado que contenha 6 máquinas virtuais utilizando VPN
